@@ -1,7 +1,0 @@
-[0m[[0m[31merror[0m] [0m[0m[31m[31m-- [E050] Type Error: /home/pirale/github/reactive-system-programming/exercises/reactive-example/src/main/scala/example/Lists.scala:57:11 [0m[0m[0m
-[0m[[0m[31merror[0m] [0m[0m[31m57 |[0m    [33mif[0m (xs.isEmpty()) {[0m
-[0m[[0m[31merror[0m] [0m[0m[31m[31m   |[0m        ^^^^^^^^^^[0m[0m
-[0m[[0m[31merror[0m] [0m[0m[31m   |[0m        [33mmethod[0m [35misEmpty[0m in [33mclass[0m [35mList[0m does not take parameters[0m
-[0m[[0m[31merror[0m] [0m[0m[31m   |[0m[0m
-[0m[[0m[31merror[0m] [0m[0m[31m   |[0m longer explanation available when compiling with `-explain`[0m
-[0m[[0m[31merror[0m] [0m[0mone error found[0m
