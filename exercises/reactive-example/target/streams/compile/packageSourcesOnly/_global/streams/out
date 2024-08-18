@@ -1,0 +1,7 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/pirale/github/reactive-system-programming/exercises/reactive-example/target/scala-3.3.0/progfun1-example_3-0.1.0-SNAPSHOT-sources.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example/Lists.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/pirale/github/reactive-system-programming/exercises/reactive-example/src/main/scala/example/Lists.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example/main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/pirale/github/reactive-system-programming/exercises/reactive-example/src/main/scala/example/main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
